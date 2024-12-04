@@ -1,43 +1,386 @@
 [
   {
     "id": 1,
-    "image": "kitchen_1",
-    "name": "Кухня",
-    "description": "Модульный кухонный гарнитур Сити 2,01х1,6 м бетон светлый",
-    "additionalInfo1": " О товаре",
-    "additionalInfo2": "Основные характеристики:\nКоллекция\tСити\nШирина\t241 см\nВысота\t214 см\nГлубина\t180 см\nВысота верхних шкафов\t72 см\nВысота нижних шкафов (с учетом цоколя)\t87 см\nГлубина верхних шкафов\t34 см\nГлубина нижних шкафов\t56 см\nПоверхность фасадов\tматовая\nМатериал фасада\tМДФ с покрытием ПВХ\nМатериал каркаса\tЛДСП\nЦвет фасада\tбетон светлый\nЦвет каркаса\tбелый\nСтолешница\tприобретается отдельно\nСтеновая панель\tприобретается отдельно\nБытовая техника\tприобретается отдельно\nМойка, смеситель, аксессуары\tприобретаются отдельно",
-    "price": 8000,
-    "imageUrl": "https://hoff.ru/upload/iblock/eed/124vqbmmp7jcfihr0hwz6fh094u9oe8u.jpg"
+    "image": "Laptop",
+    "name": "Dell XPS 13",
+    "description": "Ultrabook with InfinityEdge display",
+    "additionalInfo1": "8GB RAM, 512GB SSD",
+    "additionalInfo2": "10th Gen Intel Core i7",
+    "price": 1499.99,
+    "imageUrl": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg"
+    ]
   },
   {
     "id": 2,
-    "image": "i_2",
-    "name": "Стол",
-    "description": "Кухонный стол раздвижной Jagger 132х76.9х80 см",
-    "additionalInfo1": "О Товаре",
-    "additionalInfo2": "Основные характеристики\nКоллекция\tJagger\nПроизводитель:\tБеларусь\nГарантия:\t24 мес.\nСрок службы:\tГод: 5\nРазмер (ШхВхГ):\t132х76,9х80 с\nРазмер в разложенном виде (ШхВхГ):\t175х76,9х80 см\nТолщина столешницы:\t24 мм\nЦвет столешницы:\tдуб монастырский\nЦвет основания:\tдуб монастырский, чёрный\nМеханизм раскладывания:\tцентральная вставка\nМатериалы:\nМатериал столешницы:\tЛДСП\nМатериал основания:\tЛДСП",
-    "price": 1800,
-    "imageUrl": "https://hoff.ru/upload/hoff_resize/hoff-images/466/409/0/9985029c78801e11793e976100b141f2.jpg/1500x1000_85.webp"
-
+    "image": "Smartphone",
+    "name": "iPhone 12",
+    "description": "Apple's latest flagship phone",
+    "additionalInfo1": "5G support, A14 Bionic chip",
+    "additionalInfo2": "Super Retina XDR display",
+    "price": 999.99,
+    "imageUrl": [
+      "https://example.com/image3.jpg",
+      "https://example.com/image4.jpg"
+    ]
   },
   {
     "id": 3,
-    "image": "i",
-    "name": "Кресло",
-    "description": "Кресло Marlon от Poliform",
-    "additionalInfo1": "O Товаре",
-    "additionalInfo2": "Страна, стиль:\tИталия , современный\nПроизводитель:\tPoliform\nМатериалы:\tПолиуретан, Ткань, Кожа\nРазмеры:\t76*87/89*h76/97 см",
-    "price": 1500,
-    "imageUrl": "https://www.trio.ru/upload/resize_cache/iblock/daa/1000_1000_160f4449f7a9638ec506e42f0bebcae43/daa42d96c051e91a62e96489b04b238e.jpg"
+    "image": "Headphones",
+    "name": "Sony WH-1000XM4",
+    "description": "Wireless noise-canceling headphones",
+    "additionalInfo1": "30-hour battery life",
+    "additionalInfo2": "Multiple device pairing",
+    "price": 349.99,
+    "imageUrl": [
+      "https://example.com/image5.jpg",
+      "https://example.com/image6.jpg"
+    ]
   },
   {
     "id": 4,
-    "image": "i_3",
-    "name": "Стул",
-    "description": "Стул Белен 49х82х60 см",
-    "additionalInfo1": "O Товаре",
-    "additionalInfo2": "Основные характеристики\nКоллекция\tБелен\nПроизводитель\tРоссия\nГарантия\t18 мес.\nСрок службы\tГод: 10\nРазмер (ШхВхГ)\t49х82х60 см\nМаксимальная нагрузка\t130 кг\nЦвет обивки\tсерый\nЦвет ножек\tчёрный\nСиденье:\nШирина сиденья\t48 см\nГлубина сиденья\t41 см\nВысота сиденья\t49 см\nМатериалы:\nТип обивки\tвелюр\nДополнительная информация:\nВозможность заказать в другой обивке\tНет\nВозможность штабелирования\tнет\nПоворотный механизм\tНет\nРегулируется по высоте\tНет\nСкладной\tНет\nСобранный\tнет\nНаименование обивки\tBalance\nКод цвета обивки\t996",
-    "price": 1500,
-    "imageUrl": "https://hoff.ru/upload/iblock/1ae/1ae7688c2ddc10e67f66c9da7ecb12a4.jpg"
+    "image": null,
+    "name": "KitchenAid Stand Mixer",
+    "description": "Classic kitchen appliance",
+    "additionalInfo1": "10-speed settings",
+    "additionalInfo2": "Comes in various colors",
+    "price": 299.99,
+    "imageUrl": [
+      "https://example.com/image7.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "Camera",
+    "name": "Canon EOS R6",
+    "description": "Mirrorless camera for professionals",
+    "additionalInfo1": "20.1MP Full-Frame CMOS sensor",
+    "additionalInfo2": "4K video recording",
+    "price": 2499.99,
+    "imageUrl": [
+      "https://example.com/image8.jpg",
+      "https://example.com/image9.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "image": null,
+    "name": "Wireless Keyboard and Mouse Combo",
+    "description": "Ergonomic design for productivity",
+    "additionalInfo1": "Long battery life",
+    "additionalInfo2": "2.4GHz wireless connection",
+    "price": 49.99,
+    "imageUrl": [
+      "https://example.com/image10.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "Smartwatch",
+    "name": "Samsung Galaxy Watch 3",
+    "description": "Stylish smartwatch with health features",
+    "additionalInfo1": "Heart rate monitoring, GPS",
+    "additionalInfo2": "Water-resistant up to 50m",
+    "price": 399.99,
+    "imageUrl": [
+      "https://example.com/image11.jpg",
+      "https://example.com/image12.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "Tablet",
+    "name": "iPad Air",
+    "description": "Powerful tablet for everyday use",
+    "additionalInfo1": "A14 Bionic chip, 10.9-inch display",
+    "additionalInfo2": "Support for Apple Pencil",
+    "price": 599.99,
+    "imageUrl": [
+      "https://example.com/image13.jpg",
+      "https://example.com/image14.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "Fitness Tracker",
+    "name": "Fitbit Charge 4",
+    "description": "Advanced fitness tracker with GPS",
+    "additionalInfo1": "24/7 heart rate tracking",
+    "additionalInfo2": "Sleep tracking functionality",
+    "price": 149.99,
+    "imageUrl": [
+      "https://example.com/image15.jpg",
+      "https://example.com/image16.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "image": null,
+    "name": "Amazon Echo Dot",
+    "description": "Smart speaker with Alexa",
+    "additionalInfo1": "Control smart home devices",
+    "additionalInfo2": "Compact design",
+    "price": 39.99,
+    "imageUrl": [
+      "https://example.com/image17.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "image": "Gaming Console",
+    "name": "PlayStation 5",
+    "description": "Next-gen gaming console from Sony",
+    "additionalInfo1": "Ultra-HD Blu-ray, 825GB SSD",
+    "additionalInfo2": "Up to 120fps gameplay",
+    "price": 499.99,
+    "imageUrl": [
+      "https://example.com/image18.jpg",
+      "https://example.com/image19.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "image": "Drone",
+    "name": "DJI Mavic Air 2",
+    "description": "Foldable drone with 48MP camera",
+    "additionalInfo1": "34-minute max flight time",
+    "additionalInfo2": "8K Hyperlapse functionality",
+    "price": 799.99,
+    "imageUrl": [
+      "https://example.com/image20.jpg",
+      "https://example.com/image21.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "image": null,
+    "name": "Anker Power Bank",
+    "description": "Portable charger for smartphones",
+    "additionalInfo1": "20,000mAh capacity",
+    "additionalInfo2": "PowerIQ technology for fast charging",
+    "price": 49.99,
+    "imageUrl": [
+      "https://example.com/image22.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "image": "Monitor",
+    "name": "LG UltraWide Monitor",
+    "description": "34-inch curved monitor for immersive experience",
+    "additionalInfo1": "HDR10 support, 1440p resolution",
+    "additionalInfo2": "Adjustable stand",
+    "price": 699.99,
+    "imageUrl": [
+      "https://example.com/image23.jpg",
+      "https://example.com/image24.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "image": "Printer",
+    "name": "Epson EcoTank ET-2760",
+    "description": "Wireless all-in-one cartridge-free printer",
+    "additionalInfo1": "Print, scan, copy functionality",
+    "additionalInfo2": "Supertank system for ink",
+    "price": 299.99,
+    "imageUrl": [
+      "https://example.com/image25.jpg",
+      "https://example.com/image26.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "image": "Flash Drive",
+    "name": "SanDisk Ultra USB Flash Drive",
+    "description": "Portable storage solution with high-speed transfers",
+    "additionalInfo1": "Available in various capacities",
+    "additionalInfo2": "Compatible with USB 3.0",
+    "price": 19.99,
+    "imageUrl": [
+      "https://example.com/image27.jpg",
+      "https://example.com/image28.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "image": null,
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with noise cancellation",
+    "additionalInfo1": "Long battery life, IPX7 waterproof",
+    "additionalInfo2": "Bluetooth 5.0",
+    "price": 129.99,
+    "imageUrl": null
+  },
+  {
+    "id": 18,
+    "image": "External Hard Drive",
+    "name": "Seagate Backup Plus",
+    "description": "Portable external hard drive for backup",
+    "additionalInfo1": "USB 3.0 connectivity",
+    "additionalInfo2": "Automatic backup software",
+    "price":null,
+    "imageUrl": [
+      "https://example.com/image31.jpg",
+      "https://example.com/image32.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "image": "Portable Speaker",
+    "name": "JBL Flip 5",
+    "description": "Waterproof Bluetooth speaker",
+    "additionalInfo1": "12-hour battery life",
+    "additionalInfo2": "PartyBoost for linking multiple speakers",
+    "price": 119.99,
+    "imageUrl": [
+      "https://example.com/image33.jpg",
+      "https://example.com/image34.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "image": null,
+    "name": "Microsoft Surface Pro 7",
+    "description": "Versatile 2-in-1 laptop and tablet",
+    "additionalInfo1": "10th Gen Intel Core processor",
+    "additionalInfo2": "12.3-inch PixelSense display",
+    "price": 899.99,
+    "imageUrl": [
+      "https://example.com/image35.jpg",
+      "https://example.com/image36.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "image": "Robot Vacuum",
+    "name": "iRobot Roomba i7+",
+    "description": "Self-emptying robot vacuum with smart mapping",
+    "additionalInfo1": "vSLAM navigation, Ideal for pet hair",
+    "additionalInfo2": "Imprint Smart Mapping",
+    "price": 799.99,
+    "imageUrl": [
+      "https://example.com/image37.jpg",
+      "https://example.com/image38.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "image": "Smart Thermostat",
+    "name": "Google Nest Learning Thermostat",
+    "description": "Smart thermostat with energy-saving features",
+    "additionalInfo1": "Remote control via smartphone app",
+    "additionalInfo2": "Learns your schedule",
+    "price": 249.99,
+    "imageUrl": [
+      "https://example.com/image39.jpg",
+      "https://example.com/image40.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "image": "Rice Cooker",
+    "name": "Zojirushi Neuro Fuzzy Rice Cooker",
+    "description": "Advanced rice cooker with multiple settings",
+    "additionalInfo1": "Neuro Fuzzy logic technology",
+    "additionalInfo2": null,
+    "price": 199.99,
+    "imageUrl": [
+      "https://example.com/image41.jpg",
+      "https://example.com/image42.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "image": null,
+    "name": "Electric Toothbrush",
+    "description": "Sonic electric toothbrush with multiple modes",
+    "additionalInfo1": "2-minute timer, Pressure sensor",
+    "additionalInfo2": "Long battery life",
+    "price": 79.99,
+    "imageUrl": [
+      "https://example.com/image43.jpg",
+      "https://example.com/image44.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "image": null,
+    "name": "Blendtec Classic 575 Blender",
+    "description": "Powerful blender for smoothies and more",
+    "additionalInfo1": "Four pre-programmed cycles",
+    "additionalInfo2": "Large capacity jar",
+    "price": 279.99,
+    "imageUrl": [
+      "https://example.com/image45.jpg",
+      "https://example.com/image46.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "image": "Portable Air Conditioner",
+    "name": null,
+    "description": "Portable air conditioner for cooling rooms",
+    "additionalInfo1": "8000 BTU, Dual filtration system",
+    "additionalInfo2": "Designed for rooms up to 300 sq. ft.",
+    "price": 349.99,
+    "imageUrl": [
+      "https://example.com/image47.jpg",
+      "https://example.com/image48.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "image": "Coffee Maker",
+    "name": "Keurig K-Elite Coffee Maker",
+    "description": null,
+    "additionalInfo1": "Iced coffee setting, Quiet Brew technology",
+    "additionalInfo2": "Compatible with K-Cup pods",
+    "price": 129.99,
+    "imageUrl": [
+      "https://example.com/image49.jpg",
+      "https://example.com/image50.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "image": "Smart Bulbs",
+    "name": "Philips Hue White and Color Ambiance",
+    "description": "Smart LED bulbs compatible with various platforms",
+    "additionalInfo1": null,
+    "additionalInfo2": "Voice control with Alexa, Google Assistant",
+    "price": 149.99,
+    "imageUrl": [
+      "https://example.com/image51.jpg",
+      "https://example.com/image52.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "image": null,
+    "name": "Nintendo Switch",
+    "description": "Hybrid gaming console for home and on-the-go",
+    "additionalInfo1": "Removable Joy-Con controllers",
+    "additionalInfo2": "Vibrant 6.2-inch display",
+    "price": 299.99,
+    "imageUrl": [
+      "https://example.com/image53.jpg",
+      "https://example.com/image54.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "image": "Vacuum Cleaner",
+    "name": "Dyson V11 Torque Drive",
+    "description": "Powerful cordless vacuum cleaner",
+    "additionalInfo1": "LCD screen, Dynamic Load Sensor",
+    "additionalInfo2": "Intelligently optimizes suction and run time",
+    "price": 699.99,
+    "imageUrl": [
+      "https://example.com/image55.jpg",
+      "https://example.com/image56.jpg"
+    ]
   }
 ]
+
