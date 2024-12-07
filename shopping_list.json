@@ -7,23 +7,17 @@
     "additionalInfo1": "8GB RAM, 512GB SSD",
     "additionalInfo2": "10th Gen Intel Core i7",
     "price": 1499.99,
-    "imageUrl": [
-      "https://example.com/image1.jpg",
-      "https://example.com/image2.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image1.jpg", "https://example.com/image2.jpg" ]
   },
   {
     "id": 2,
     "image": "Smartphone",
     "name": "iPhone 12",
-    "description": "Apple's latest flagship phone",
+    "description": "Apple's latest flagship phone", 
     "additionalInfo1": "5G support, A14 Bionic chip",
     "additionalInfo2": "Super Retina XDR display",
     "price": 999.99,
-    "imageUrl": [
-      "https://example.com/image3.jpg",
-      "https://example.com/image4.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image3.jpg", "https://example.com/image4.jpg"]
   },
   {
     "id": 3,
@@ -33,10 +27,7 @@
     "additionalInfo1": "30-hour battery life",
     "additionalInfo2": "Multiple device pairing",
     "price": 349.99,
-    "imageUrl": [
-      "https://example.com/image5.jpg",
-      "https://example.com/image6.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image5.jpg", "https://example.com/image6.jpg"]
   },
   {
     "id": 4,
@@ -46,9 +37,7 @@
     "additionalInfo1": "10-speed settings",
     "additionalInfo2": "Comes in various colors",
     "price": 299.99,
-    "imageUrl": [
-      "https://example.com/image7.jpg"
-    ]
+    "imageUrl": ["https://example.com/image7.jpg"]
   },
   {
     "id": 5,
@@ -58,10 +47,7 @@
     "additionalInfo1": "20.1MP Full-Frame CMOS sensor",
     "additionalInfo2": "4K video recording",
     "price": 2499.99,
-    "imageUrl": [
-      "https://example.com/image8.jpg",
-      "https://example.com/image9.jpg"
-    ]
+    "imageUrl": ["https://example.com/image8.jpg", "https://example.com/image9.jpg"]
   },
   {
     "id": 6,
@@ -71,9 +57,7 @@
     "additionalInfo1": "Long battery life",
     "additionalInfo2": "2.4GHz wireless connection",
     "price": 49.99,
-    "imageUrl": [
-      "https://example.com/image10.jpg"
-    ]
+    "imageUrl": ["https://example.com/image10.jpg"]
   },
   {
     "id": 7,
@@ -83,10 +67,7 @@
     "additionalInfo1": "Heart rate monitoring, GPS",
     "additionalInfo2": "Water-resistant up to 50m",
     "price": 399.99,
-    "imageUrl": [
-      "https://example.com/image11.jpg",
-      "https://example.com/image12.jpg"
-    ]
+    "imageUrl": ["https://example.com/image11.jpg", "https://example.com/image12.jpg"]
   },
   {
     "id": 8,
@@ -96,9 +77,7 @@
     "additionalInfo1": "A14 Bionic chip, 10.9-inch display",
     "additionalInfo2": "Support for Apple Pencil",
     "price": 599.99,
-    "imageUrl": [
-      "https://example.com/image13.jpg",
-      "https://example.com/image14.jpg"
+    "imageUrl": [ "https://example.com/image13.jpg", "https://example.com/image14.jpg"
     ]
   },
   {
@@ -109,10 +88,7 @@
     "additionalInfo1": "24/7 heart rate tracking",
     "additionalInfo2": "Sleep tracking functionality",
     "price": 149.99,
-    "imageUrl": [
-      "https://example.com/image15.jpg",
-      "https://example.com/image16.jpg"
-    ]
+    "imageUrl": ["https://example.com/image15.jpg", "https://example.com/image16.jpg"]
   },
   {
     "id": 10,
@@ -122,9 +98,7 @@
     "additionalInfo1": "Control smart home devices",
     "additionalInfo2": "Compact design",
     "price": 39.99,
-    "imageUrl": [
-      "https://example.com/image17.jpg"
-    ]
+    "imageUrl": ["https://example.com/image17.jpg"]
   },
   {
     "id": 11,
@@ -134,10 +108,7 @@
     "additionalInfo1": "Ultra-HD Blu-ray, 825GB SSD",
     "additionalInfo2": "Up to 120fps gameplay",
     "price": 499.99,
-    "imageUrl": [
-      "https://example.com/image18.jpg",
-      "https://example.com/image19.jpg"
-    ]
+    "imageUrl": ["https://example.com/image18.jpg", "https://example.com/image19.jpg"]
   },
   {
     "id": 12,
@@ -147,10 +118,7 @@
     "additionalInfo1": "34-minute max flight time",
     "additionalInfo2": "8K Hyperlapse functionality",
     "price": 799.99,
-    "imageUrl": [
-      "https://example.com/image20.jpg",
-      "https://example.com/image21.jpg"
-    ]
+    "imageUrl": ["https://example.com/image20.jpg", "https://example.com/image21.jpg"]
   },
   {
     "id": 13,
@@ -160,9 +128,7 @@
     "additionalInfo1": "20,000mAh capacity",
     "additionalInfo2": "PowerIQ technology for fast charging",
     "price": 49.99,
-    "imageUrl": [
-      "https://example.com/image22.jpg"
-    ]
+    "imageUrl": ["https://example.com/image22.jpg" ]
   },
   {
     "id": 14,
@@ -172,10 +138,7 @@
     "additionalInfo1": "HDR10 support, 1440p resolution",
     "additionalInfo2": "Adjustable stand",
     "price": 699.99,
-    "imageUrl": [
-      "https://example.com/image23.jpg",
-      "https://example.com/image24.jpg"
-    ]
+    "imageUrl": ["https://example.com/image23.jpg", "https://example.com/image24.jpg"]
   },
   {
     "id": 15,
@@ -185,10 +148,7 @@
     "additionalInfo1": "Print, scan, copy functionality",
     "additionalInfo2": "Supertank system for ink",
     "price": 299.99,
-    "imageUrl": [
-      "https://example.com/image25.jpg",
-      "https://example.com/image26.jpg"
-    ]
+    "imageUrl": ["https://example.com/image25.jpg", "https://example.com/image26.jpg"]
   },
   {
     "id": 16,
@@ -198,10 +158,7 @@
     "additionalInfo1": "Available in various capacities",
     "additionalInfo2": "Compatible with USB 3.0",
     "price": 19.99,
-    "imageUrl": [
-      "https://example.com/image27.jpg",
-      "https://example.com/image28.jpg"
-    ]
+    "imageUrl": ["https://example.com/image27.jpg", "https://example.com/image28.jpg"]
   },
   {
     "id": 17,
@@ -221,10 +178,7 @@
     "additionalInfo1": "USB 3.0 connectivity",
     "additionalInfo2": "Automatic backup software",
     "price":null,
-    "imageUrl": [
-      "https://example.com/image31.jpg",
-      "https://example.com/image32.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image31.jpg","https://example.com/image32.jpg"]
   },
   {
     "id": 19,
@@ -234,10 +188,7 @@
     "additionalInfo1": "12-hour battery life",
     "additionalInfo2": "PartyBoost for linking multiple speakers",
     "price": 119.99,
-    "imageUrl": [
-      "https://example.com/image33.jpg",
-      "https://example.com/image34.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image33.jpg", "https://example.com/image34.jpg"]
   },
   {
     "id": 20,
@@ -247,10 +198,7 @@
     "additionalInfo1": "10th Gen Intel Core processor",
     "additionalInfo2": "12.3-inch PixelSense display",
     "price": 899.99,
-    "imageUrl": [
-      "https://example.com/image35.jpg",
-      "https://example.com/image36.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image35.jpg","https://example.com/image36.jpg" ]
   },
   {
     "id": 21,
@@ -260,10 +208,7 @@
     "additionalInfo1": "vSLAM navigation, Ideal for pet hair",
     "additionalInfo2": "Imprint Smart Mapping",
     "price": 799.99,
-    "imageUrl": [
-      "https://example.com/image37.jpg",
-      "https://example.com/image38.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image37.jpg", "https://example.com/image38.jpg"]
   },
   {
     "id": 22,
@@ -273,10 +218,7 @@
     "additionalInfo1": "Remote control via smartphone app",
     "additionalInfo2": "Learns your schedule",
     "price": 249.99,
-    "imageUrl": [
-      "https://example.com/image39.jpg",
-      "https://example.com/image40.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image39.jpg", "https://example.com/image40.jpg"]
   },
   {
     "id": 23,
@@ -286,10 +228,7 @@
     "additionalInfo1": "Neuro Fuzzy logic technology",
     "additionalInfo2": null,
     "price": 199.99,
-    "imageUrl": [
-      "https://example.com/image41.jpg",
-      "https://example.com/image42.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image41.jpg", "https://example.com/image42.jpg" ]
   },
   {
     "id": 24,
@@ -299,10 +238,7 @@
     "additionalInfo1": "2-minute timer, Pressure sensor",
     "additionalInfo2": "Long battery life",
     "price": 79.99,
-    "imageUrl": [
-      "https://example.com/image43.jpg",
-      "https://example.com/image44.jpg"
-    ]
+    "imageUrl": ["https://example.com/image43.jpg", "https://example.com/image44.jpg"]
   },
   {
     "id": 25,
@@ -312,10 +248,7 @@
     "additionalInfo1": "Four pre-programmed cycles",
     "additionalInfo2": "Large capacity jar",
     "price": 279.99,
-    "imageUrl": [
-      "https://example.com/image45.jpg",
-      "https://example.com/image46.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image45.jpg", "https://example.com/image46.jpg" ]
   },
   {
     "id": 26,
@@ -325,10 +258,7 @@
     "additionalInfo1": "8000 BTU, Dual filtration system",
     "additionalInfo2": "Designed for rooms up to 300 sq. ft.",
     "price": 349.99,
-    "imageUrl": [
-      "https://example.com/image47.jpg",
-      "https://example.com/image48.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image47.jpg","https://example.com/image48.jpg"]
   },
   {
     "id": 27,
@@ -338,10 +268,7 @@
     "additionalInfo1": "Iced coffee setting, Quiet Brew technology",
     "additionalInfo2": "Compatible with K-Cup pods",
     "price": 129.99,
-    "imageUrl": [
-      "https://example.com/image49.jpg",
-      "https://example.com/image50.jpg"
-    ]
+    "imageUrl": ["https://example.com/image49.jpg", "https://example.com/image50.jpg"]
   },
   {
     "id": 28,
@@ -351,10 +278,7 @@
     "additionalInfo1": null,
     "additionalInfo2": "Voice control with Alexa, Google Assistant",
     "price": 149.99,
-    "imageUrl": [
-      "https://example.com/image51.jpg",
-      "https://example.com/image52.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image51.jpg", "https://example.com/image52.jpg"]
   },
   {
     "id": 29,
@@ -364,10 +288,7 @@
     "additionalInfo1": "Removable Joy-Con controllers",
     "additionalInfo2": "Vibrant 6.2-inch display",
     "price": 299.99,
-    "imageUrl": [
-      "https://example.com/image53.jpg",
-      "https://example.com/image54.jpg"
-    ]
+    "imageUrl": ["https://example.com/image53.jpg", "https://example.com/image54.jpg"]
   },
   {
     "id": 30,
@@ -377,10 +298,7 @@
     "additionalInfo1": "LCD screen, Dynamic Load Sensor",
     "additionalInfo2": "Intelligently optimizes suction and run time",
     "price": 699.99,
-    "imageUrl": [
-      "https://example.com/image55.jpg",
-      "https://example.com/image56.jpg"
-    ]
+    "imageUrl": [ "https://example.com/image55.jpg", "https://example.com/image56.jpg" ]
   }
 ]
 
